@@ -5,8 +5,8 @@ This project implements **object admittance control** for a dual-arm robotic sys
 ---
 
 ## 📽️ Demonstration
+[![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Demo%20Video-blue)](https://youtu.be/-an-89Gh3lk?feature=shared)
 
-[![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20Demo%20Video-blue)]([https://youtu.be/1Zh8jDSsFWA](https://youtu.be/-an-89Gh3lk?feature=shared))
 
 ---
 
